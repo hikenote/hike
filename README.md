@@ -1,4 +1,3 @@
 hike
 ====
 test
-test
